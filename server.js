@@ -5,7 +5,7 @@ const port = 3000;
 // Your details
 const name = "Gerard Michael V. Gonzales";
 const section = "IT BA - 4101";
-const quote = "Success is not final; failure is not fatal.";
+const quote = "Small insights lead to big decisions.";
 
 app.get("/", (req, res) => {
     res.send(`
